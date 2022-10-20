@@ -1,0 +1,28 @@
+h1  {
+  color: yellow;
+  background-color: blue;
+
+}
+
+img {
+  border:4px ridge;
+}
+
+h2 {
+  color: gray;
+  background-color: black;
+  border: 4px solid red;
+
+}
+ p {
+   color: white;
+   font-family: "Arvo";
+   background-image: linear-gradient(red,gray,red);
+ }
+
+a {
+  color: pink;
+  background-image: linear-gradient(red,gray,red);
+  font-family: "Arvo";
+  border-left: 4px solid black;
+}
